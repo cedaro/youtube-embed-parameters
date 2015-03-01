@@ -1,0 +1,24 @@
+{
+  "name": "youtube-embed-parameters",
+  "version": "1.0.0",
+  "description": "A WordPress plugin to customize parameters for embedded Youtube players.",
+  "main": "Gruntfile.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cedaro/youtube-embed-parameters.git"
+  },
+  "author": {
+    "name": "Brady Vercher",
+    "email": "brady@blazersix.com",
+    "url": "http://www.cedaro.com/"
+  },
+  "license": "GPL-2.0+",
+  "bugs": {
+    "url": "https://github.com/cedaro/youtube-embed-parameters/issues"
+  },
+  "homepage": "https://github.com/cedaro/youtube-embed-parameters",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-wp-i18n": "~0.5"
+  }
+}
