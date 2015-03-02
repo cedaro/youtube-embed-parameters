@@ -2,9 +2,9 @@
 
 Customize parameters for embedded Youtube players, including oEmbeds.
 
-__Contributors:__ [Brady Vercher](https://twitter.com/bradyvercher)
-__Requires:__ 4.0
-__Tested up to:__ 4.1
+__Contributors:__ [Brady Vercher](https://twitter.com/bradyvercher)  
+__Requires:__ 4.0  
+__Tested up to:__ 4.1  
 __License:__ [GPL-2.0+](http://www.gnu.org/licenses/gpl-2.0.html)
 
 YouTube allows embedded players to be [customized by setting parameters](https://developers.google.com/youtube/player_parameters) in the iframe URL, however, custom parameters are stripped when passed through the oEmbed endpoint, making it difficult to customize the players. _YouTube Embed Parameters_ makes sure custom parameters can be added by filtering the oEmbed HTMl.
